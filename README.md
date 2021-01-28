@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm SMJ Developer</h1>
-<h3 align="center">Self taught & Passionate Front End Developer from India 👩‍💻</h3>
+<h3 align="center">Self taught & Passionated Front End Developer from India 👩‍💻</h3>
 <h4 align="center">Soon Full Stack Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" /> </p>
 
 <p align="left"> <a href="https://twitter.com/developersmj" target="blank"><img src="https://img.shields.io/twitter/follow/developersmj?logo=twitter&style=for-the-badge" alt="developersmj" /></a> </p>
 
-- 🔭 I’m currently working on **Self Developed Projects that you can find in my **Repositories****
+- 🔭 I’m currently working on **My own Projects that you can find in my **Repository****
 
 - 🌱 I’m currently learning **Redux, NodeJS, MongoDB, Express**
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://smjdeveloper-cv.netlify.app/](https://smjdeveloper-cv.netlify.app/)
 
-- ⚡ Fun fact **I like doing Fun 😅**
+- ⚡ Fun fact **I like only $ 🤑**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
