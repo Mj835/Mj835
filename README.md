@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **My own Projects that you can find in my **Repository****
 
-- 🌱 I’m currently learning **Redux, NodeJS, MongoDB, Express**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on ***Open Source Projects***
 
-- 🤝 I’m looking for help with ***Backend Development***
+- 🤝 I’m looking for help with ***Nothing I Am Learning Self Good Enough***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mj835/](https://github.com/Mj835/)
 
