@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on ***Open Source Projects***
 
-- 🤝 I’m looking for help with ***Nothing I Am Learning Self Good Enough***
-
 - 👨‍💻 All of my projects are available at [https://github.com/Mj835/](https://github.com/Mj835/)
 
 - 💬 Ask me about **No ! Check out my Portfolio to know more - [ **https://smjdeveloper-cv.netlify.app/** ]**
