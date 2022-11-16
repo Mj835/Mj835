@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm SMJ Developer</h1>
 <h3 align="center">Self taught & Passionated Front End Developer from India 👩‍💻</h3>
-<h4 align="center">Soon Full Stack Developer</h4>
+<!-- <h4 align="center">Soon Full Stack Developer</h4> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" /> </p>
 
