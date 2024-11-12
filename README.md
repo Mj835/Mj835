@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muskan Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<hr />
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" /> </p>
 <p align="center">
 <a href="https://twitter.com/developersmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developersmj" height="30" width="40" /></a>
