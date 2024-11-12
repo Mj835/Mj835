@@ -27,7 +27,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mj835&show_icons=true&locale=en&layout=compact&theme=radical" alt="mj835" /></p>
 
-<img src="https://raw.githubusercontent.com/mj835/mj835/output/snake.svg" alt="Snake animation" />
+## Snake Eating My Contributions
 
-###
+![snake animation](https://github.com/Mj835/Mj835/blob/output/snake.svg)
+
 
