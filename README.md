@@ -32,3 +32,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mj835&layout=compact&theme=radical)
 
+## Most Used Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-33.71%25-3178C6?style=for-the-badge&labelColor=2B2D42)
+![JavaScript](https://img.shields.io/badge/JavaScript-32.18%25-F7DF1E?style=for-the-badge&labelColor=2B2D42)
+![HTML](https://img.shields.io/badge/HTML-15.83%25-E34F26?style=for-the-badge&labelColor=2B2D42)
+![MDX](https://img.shields.io/badge/MDX-11.1%25-F3E2A9?style=for-the-badge&labelColor=2B2D42)
+![CSS](https://img.shields.io/badge/CSS-7.18%25-563D7C?style=for-the-badge&labelColor=2B2D42)
+
+
