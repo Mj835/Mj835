@@ -1,93 +1,164 @@
-<h1 align="center">Hi 👋, I'm Muskan Jaiswal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Muskan Jaiswal
+
+<h3 align="center">
+Senior Frontend Engineer • React & Next.js Specialist • Building Scalable SaaS Platforms
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20views&color=0e75b6&style=flat" alt="mj835" />
+  <img src="https://komarev.com/ghpvc/?username=mj835&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Mj835?style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Mj835?style=for-the-badge" alt="stars" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/developersmj" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+---
+
+## 🚀 About Me
+
+I’m a **Senior Frontend Engineer** with 5+ years of experience building scalable SaaS products, enterprise dashboards, and modern web applications.
+
+I specialize in:
+
+* ⚡ Building scalable frontend architectures
+* ⚡ Creating reusable component systems
+* ⚡ Performance optimization & accessibility
+* ⚡ Multi-tenant dashboard platforms
+* ⚡ Complex state management & data-heavy UIs
+* ⚡ Modern React ecosystem & frontend scalability
+
+I enjoy transforming complex business workflows into fast, maintainable, and user-friendly frontend experiences.
+
+---
+
+## 💼 What I’ve Built
+
+### 🏗 Enterprise Dashboard Platforms
+
+Built and scaled multiple enterprise-grade dashboards with:
+
+* RBAC & OAuth authentication systems
+* Analytics & marketing intelligence modules
+* Reusable design systems
+* Custom hooks architecture
+* Server-side pagination & optimized data fetching
+* AI-assisted frontend workflows
+
+### ⚡ Frontend Performance Optimization
+
+Worked on improving:
+
+* Lighthouse scores
+* Bundle optimization
+* Lazy loading strategies
+* Rendering performance
+* Developer productivity
+* Accessibility (WCAG)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,sass,vite" />
+</p>
+
+### State Management & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,firebase" />
+</p>
+
+* Redux Toolkit
+* React Query / TanStack Query
+* Zustand
+* Context API
+* REST APIs
+* Axios
+
+### Testing & Quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress" />
+</p>
+
+### Dev Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify" />
+</p>
+
+* Sentry
+* LogRocket
+* CI/CD
+* Lighthouse
+* AI-assisted development tools
+
+---
+
+## 📈 Professional Highlights
+
+* 🚀 Delivered 5+ enterprise SaaS applications
+* ⚡ Improved application performance by ~25%
+* 🧩 Built 40+ reusable UI components
+* 🔁 Developed 50+ reusable custom hooks
+* 🔐 Implemented scalable RBAC & OAuth systems
+* 🧪 Reduced regressions using Cypress E2E testing
+* ♿ Improved accessibility scores from 75 → 95+
+* 🤝 Collaborated across frontend, backend, QA & product teams
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
   <a href="https://linkedin.com/in/smjdeveloper" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.leetcode.com/mj835" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://github.com/Mj835" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
-
----
-
-- 📝 I'm a passionate frontend developer focused on building efficient, user-centric web applications. I openly share my projects to inspire and contribute to the developer community. Dive into my repositories to discover modern web solutions.
-
-- 🔭 I’m currently working at [Coreyo](https://coreyo.com/)
-
-- 👨‍💻 All of my projects are available at [smjdeveloper-cv.netlify.app](https://smjdeveloper-cv.netlify.app)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me: **jaiswalmuskanmj@gmail.com**
-
-- 📄 View my resume [here](https://drive.google.com/file/d/1s2hfgQmu3bWntjYPBu7oaTItPpXo63lT/view?usp=drive_link)
-
-- ⚡ Fun fact: **I love solving bugs 🐛**
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <a href="https://twitter.com/developersmj" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
+📫 Email: **[2muskanjaiswal@gmail.com](mailto:2muskanjaiswal@gmail.com)**
+
+🌍 Portfolio: **[https://smjdeveloper-cv.netlify.app](https://smjdeveloper-cv.netlify.app)**
+
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mj835&show_icons=true&locale=en&layout=compact&theme=radical" alt="mj835" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mj835&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mj835&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mj835&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-<h3 align="center">Snake Eating My Contributions 🐍</h3>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Mj835/Mj835/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Mj835/Mj835/blob/output/snake.svg" alt="snake animation" />
 </p>
+
+---
+
+## 💡 Engineering Philosophy
+
+> I believe great frontend engineering is not only about building beautiful UI — it’s about creating scalable systems, improving developer experience, solving real business problems, and delivering smooth user experiences at scale.
+
+---
+
+## ⚡ Fun Fact
+
+I genuinely enjoy debugging complex frontend issues and optimizing applications for performance.
